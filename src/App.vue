@@ -9,7 +9,7 @@
 export default {
   name: "App",
   created() {
-    console.log("this is wxh ce shi xiangmu");
+    console.log("this is wxh ce shi xiangmu yp add");
   }
 };
 </script>
